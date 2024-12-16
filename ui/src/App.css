@@ -1,0 +1,19 @@
+
+html {
+    background: linear-gradient(135deg, #a2a8d3, #e6e9f0);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+body{
+    background: transparent
+}
+.page{
+    background: #fff;
+    border-radius: 10px;
+    margin: 30px;
+    text-align: center;
+    min-height: 90vh;
+}
+.page h1{
+    padding-top: 50px;
+}

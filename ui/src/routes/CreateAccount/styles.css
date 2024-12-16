@@ -1,0 +1,19 @@
+.createAccount{
+    display: flex;
+    vertical-align: center;
+    justify-content: center;
+}
+.createAccount .form{
+    width: 300px;
+}
+.createAccount .form *{
+    /* width: 100%; */
+}
+.createAccount .form .field{
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.createAccount .form button{
+    margin: 5px;
+}
